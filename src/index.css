@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: muli, serif, sans-serif;
+  height: 100%;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  width: 100%;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+li div{
+  margin: 10px
+}
